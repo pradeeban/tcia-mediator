@@ -15,7 +15,7 @@ researchers the ability to share data subsets, track and download updates, and p
 Getting Started With MEDIator
 #############################
 
-`Sign up <https://lion.bmi.emory.edu/signup/>` to use the MEDIator APIs.
+`Signup <https://lion.bmi.emory.edu/signup/>` to use the MEDIator APIs.
 
 Once you have received the API key from the developer portal above, you may use your keys to invoke the MEDIator REST API.
 
