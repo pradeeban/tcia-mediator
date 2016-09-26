@@ -19,6 +19,8 @@ Getting Started With MEDIator
 
 Once you have received the API key from the developer portal above, you may use your keys to invoke the MEDIator REST API.
 
+Make sure to append all your RESTful api invocations with &api_key=YOUR-API-UMBRELLA-API-KEY in order to invoke the
+MEDIator RESTful APIs.
 
 MEDIator RESTful APIs
 #####################
